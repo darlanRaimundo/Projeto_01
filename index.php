@@ -39,7 +39,7 @@
     </header>
 
     <section class="banner-principal">
-
+        <div class="overlay"></div>
         <div class="center">
             <form action="">
                 <h2>Qual seu melhor e-mail?</h2>
